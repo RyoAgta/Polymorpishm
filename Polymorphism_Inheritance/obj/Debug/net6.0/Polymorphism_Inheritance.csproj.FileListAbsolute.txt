@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Polymorphism_Inheritance\Polymorphism_Inheritance\obj\Debug\net6.0\Polymorphism_Inheritance.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Polymorphism_Inheritance\Polymorphism_Inheritance\obj\Debug\net6.0\Polymorphism_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Polymorphism_Inheritance\Polymorphism_Inheritance\obj\Debug\net6.0\Polymorphism_Inheritance.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Polymorphism_Inheritance\Polymorphism_Inheritance\obj\Debug\net6.0\Polymorphism_Inheritance.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Polymorphism_Inheritance\Polymorphism_Inheritance\obj\Debug\net6.0\Polymorphism_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Polymorphism_Inheritance\Polymorphism_Inheritance\bin\Debug\net6.0\Polymorphism_Inheritance.exe
+C:\Users\ASUS\source\repos\Polymorphism_Inheritance\Polymorphism_Inheritance\bin\Debug\net6.0\Polymorphism_Inheritance.deps.json
+C:\Users\ASUS\source\repos\Polymorphism_Inheritance\Polymorphism_Inheritance\bin\Debug\net6.0\Polymorphism_Inheritance.runtimeconfig.json
+C:\Users\ASUS\source\repos\Polymorphism_Inheritance\Polymorphism_Inheritance\bin\Debug\net6.0\Polymorphism_Inheritance.dll
+C:\Users\ASUS\source\repos\Polymorphism_Inheritance\Polymorphism_Inheritance\bin\Debug\net6.0\Polymorphism_Inheritance.pdb
+C:\Users\ASUS\source\repos\Polymorphism_Inheritance\Polymorphism_Inheritance\obj\Debug\net6.0\Polymorphism_Inheritance.dll
+C:\Users\ASUS\source\repos\Polymorphism_Inheritance\Polymorphism_Inheritance\obj\Debug\net6.0\refint\Polymorphism_Inheritance.dll
+C:\Users\ASUS\source\repos\Polymorphism_Inheritance\Polymorphism_Inheritance\obj\Debug\net6.0\Polymorphism_Inheritance.pdb
+C:\Users\ASUS\source\repos\Polymorphism_Inheritance\Polymorphism_Inheritance\obj\Debug\net6.0\Polymorphism_Inheritance.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Polymorphism_Inheritance\Polymorphism_Inheritance\obj\Debug\net6.0\ref\Polymorphism_Inheritance.dll
